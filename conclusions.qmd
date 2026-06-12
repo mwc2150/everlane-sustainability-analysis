@@ -1,0 +1,36 @@
+# Conclusions
+
+## What we found
+
+The analysis surfaced a consistent gap between Everlane's self-presentation and the tone of external voices.
+
+**On the brand's own pages**, the language about labor and factories is largely neutral-to-positive — descriptive, measured, and carefully worded. Sentences referencing workers focus on conditions and certifications rather than making bold commitments. This is consistent with *vague marketing* as classified by the manual LLM pass: aspirational in framing but light on verifiable claims.
+
+**On Reddit**, consumer sentiment toward Everlane skews more negative than the brand's pages would suggest, particularly in the `r/ethicalfashion` and `r/SustainableFashion` subreddits where users have domain knowledge to evaluate sustainability claims critically. The `r/femalefashionadvice` signal is noisier — a much larger community with a wider range of intent — but still shows measurable skepticism in inter-party sentences.
+
+**In news coverage**, media framing occupies the middle ground: more critical than the brand's own language, but less emotionally charged than Reddit. Journalists tend to contextualize Everlane within industry-wide debates (fast fashion, labor rights, greenwashing) rather than singling the brand out.
+
+---
+
+## The divergence question
+
+The rolling sentiment time-series in Section 3c is the most direct answer to the research question. If consumer and media sentiment trend downward while the brand's language stays constant or becomes more positive, that is evidence of *divergence* — the brand doubling down on messaging that the public is increasingly skeptical of.
+
+The GDELT corpus skews toward recent years (2022–2026), which limits how far back the trend analysis reaches. A fuller picture would require archival Reddit data and Wayback Machine snapshots of Everlane's sustainability pages across time.
+
+---
+
+## Limitations
+
+- **Model register mismatch**: `cardiffnlp/twitter-roberta-base-sentiment` was trained on tweets. It handles Reddit well but is imperfectly calibrated for Everlane's formal web copy.
+- **Temporal imbalance**: news coverage is concentrated in recent years; Reddit data extends further back but is unevenly distributed.
+- **Inter-party filtering**: keyword-based detection of labor references may over-include tangential mentions and miss paraphrased ones.
+- **No ground truth**: the manual LLM labels (Section 1) are not validated against human annotators; they are qualitative anchors, not a labeled dataset.
+
+---
+
+## What's next
+
+- Archive Wayback Machine snapshots of Everlane's sustainability pages to enable true temporal comparison of brand language
+- Add a second Reddit pass targeting post-2020 content from `r/antiwork` and `r/ethicalfashion` to capture labor-rights discourse that intensified during the pandemic
+- Fine-tune a classifier on the manual LLM labels to replace regex-based inter-party filtering with learned detection

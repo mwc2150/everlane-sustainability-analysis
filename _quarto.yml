@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: docs
+
+execute:
+  freeze: true   # use existing notebook outputs; never re-execute API / scraping cells
+
+book:
+  title: "Everlane: Sustainability Messaging vs. Public Perception"
+  author: "Michael Chen"
+  date: "2026"
+  repo-url: https://github.com/mwc2150/everlane-sustainability-analysis
+  repo-actions: [issue]
+  search: true
+  sidebar:
+    style: docked
+    background: light
+
+  chapters:
+    - index.qmd
+    - part: "Building the Corpus"
+      chapters:
+        - notebooks/01_scraping.ipynb
+    - part: "Analysis"
+      chapters:
+        - notebooks/02_analysis.ipynb
+    - conclusions.qmd
+
+format:
+  html:
+    theme: cosmo
+    code-fold: true
+    code-tools: true
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    html-math-method: katex

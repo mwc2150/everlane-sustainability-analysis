@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Quarto cache (local only — docs/ is committed for GitHub Pages)
+.quarto/
+
+# Large / sensitive data
+data/raw/
+data/intermediate/
+
+/.quarto/
+**/*.quarto_ipynb

@@ -1,0 +1,48 @@
+# Introduction {.unnumbered}
+
+Fashion brands increasingly use sustainability as a core part of their identity — but do their claims hold up against what consumers actually think?
+
+This project examines **Everlane**, a direct-to-consumer clothing brand that built its brand around radical transparency and ethical manufacturing. Using a multi-source corpus scraped in 2026, we ask:
+
+> *Has Everlane's sustainability messaging become more concrete over time, or has it diverged from public perceptions of ethical practice?*
+
+---
+
+## The Three Voices
+
+We built the corpus from three distinct perspectives, each with its own relationship to Everlane's narrative:
+
+| Source | What it captures | Volume |
+|--------|-----------------|--------|
+| **Reddit** | Unfiltered consumer sentiment across five fashion subreddits | 314 posts · 4,429 comments |
+| **Everlane website** | Brand-controlled messaging across 12 sustainability pages + 19 factory subpages | 31 pages |
+| **GDELT news** | Third-party journalism pulled via BigQuery, text fetched with newspaper3k | 1,015 articles |
+
+The deliberate tension here: Reddit gives us raw opinions, Everlane gives us the brand's official story, and news mediates between the two.
+
+---
+
+## Analytical Approach
+
+The analysis runs in two passes, designed to demonstrate both manual interpretive work and automated scaling:
+
+1. **Manual LLM pipeline** — Claude API on a hand-picked sample of sentences, classifying each as a concrete claim, vague marketing, consumer complaint, or media framing. This builds qualitative intuition before anything is automated.
+
+2. **Automated BERT pipeline** — Two HuggingFace models (`dslim/bert-base-NER` for entity recognition, `cardiffnlp/twitter-roberta-base-sentiment` for sentiment) run across all ~47,000 sentences. The output is then filtered to *inter-party sentences*: moments where one voice explicitly talks about another.
+
+The key result is the **inter-party valence**: when Reddit talks about Everlane, when the press covers the brand, and when Everlane's own pages reference its workers — what is the emotional tone of those specific sentences, and how does it shift over time?
+
+---
+
+## Project Structure
+
+```
+everlane_deepdive/
+├── notebooks/
+│   ├── 01_scraping.ipynb     ← data collection
+│   └── 02_analysis.ipynb     ← NLP pipeline + visualizations
+├── data/
+│   └── raw/                  ← reddit_posts, reddit_comments,
+│                                everlane_web, gdelt_articles_usable
+└── _quarto.yml
+```
