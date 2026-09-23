@@ -1,0 +1,27 @@
+[project]
+name = "everlane-deepdive"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "db-dtypes>=1.7.1",
+    "gdeltdoc>=1.12.0",
+    "google-cloud-bigquery>=3.45.2",
+    "lxml-html-clean>=0.4.5",
+    "newspaper3k>=0.2.8",
+    "nltk>=3.10.3",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "praw>=8.0.3",
+    "requests>=2.34.2",
+    "selenium>=4.49.0",
+    "setuptools>=84.0.0",
+    "torch>=2.14.0",
+    "transformers>=5.17.0",
+    "undetected-chromedriver>=3.5.5",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+]
