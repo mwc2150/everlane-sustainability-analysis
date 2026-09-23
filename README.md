@@ -140,34 +140,46 @@ text from the URLs GDELT returns.
 ```
 everlane_deepdive/
 ├── data/
+│   ├── raw/                  # Raw scraper outputs
+│   │   ├── everlane_web.csv
+│   │   ├── gdelt_articles_usable.csv
+│   │   ├── reddit_comments.csv
+│   │   └── reddit_posts.csv
 │   ├── intermediate/         # Normalized outputs from the scraping stage
 │   │   ├── gdelt_articles.csv
 │   │   ├── gdelt_historical.csv
 │   │   └── gdelt_news.csv
-│   └── raw/                  # Raw scraper outputs
-│       ├── everlane_web.csv
-│       ├── gdelt_articles_usable.csv
-│       ├── reddit_comments.csv
-│       └── reddit_posts.csv
+│   └── sentences/            # One row per sentence; input to all NLP stages
+│       ├── everlane_web_sentences.csv
+│       ├── gdelt_articles_sentences.csv
+│       ├── reddit_comments_sentences.csv
+│       └── reddit_posts_sentences.csv
 ├── notebooks/
-│   ├── 01_scraping.ipynb     # Data collection: Wayback Machine, PRAW, GDELT
-│   └── 02_analysis.ipynb     # NLP analysis: sentiment, NER, keyword tracking, LLM scoring
-├── analysis/                 # Modular script equivalents of notebook stages (in progress)
+│   ├── scraping.ipynb            # Data collection: Wayback Machine, PRAW, GDELT
+│   ├── sentence_splitting.ipynb  # Clean and split raw text into sentences
+│   ├── ner.ipynb                 # Named entity recognition
+│   ├── sentiment.ipynb           # Sentiment classification
+│   ├── language_shift.ipynb      # Keyword/theme tracking across periods
+│   └── llm_summary.ipynb         # Claude API summarization and scoring
+├── pyproject.toml            # Dependencies (managed with uv)
+├── uv.lock                   # Locked dependency versions
 └── README.md
 ```
 
 ## Setup
 
+Requires [uv](https://docs.astral.sh/uv/).
+
 ```bash
 git clone https://github.com/mwc2150/everlane-sustainability-analysis
 cd everlane-sustainability-analysis
 
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-
-pip install -r requirements.txt
+uv sync                         # creates .venv with Python 3.12 and all dependencies
 cp .env.example .env            # then fill in your API keys
 ```
+
+In VS Code, select the `.venv` interpreter as the notebook kernel. Add new packages
+with `uv add <package>` rather than `pip install`.
 
 **Required credentials** (see `.env.example`):
 
@@ -185,15 +197,12 @@ manual driver installation needed, but a Chrome/Chromium installation must be pr
 The pipeline has a strict dependency order; each stage reads files written by the
 previous one.
 
-```bash
-# 1. Data collection (writes to data/raw/ and data/intermediate/)
-jupyter notebook notebooks/01_scraping.ipynb
+1. `scraping.ipynb`: writes to `data/raw/` and `data/intermediate/`
+2. `sentence_splitting.ipynb`: reads `data/raw/`, writes to `data/sentences/`
+3. `ner.ipynb`, `sentiment.ipynb`, `language_shift.ipynb`: read from `data/sentences/`
+4. `llm_summary.ipynb`: builds on the outputs of the analysis stages
 
-# 2. NLP analysis (reads from data/intermediate/, writes to data/processed/)
-jupyter notebook notebooks/02_analysis.ipynb
-```
-
-> **Before running `01_scraping.ipynb`:** verify the Wayback Machine snapshot URLs in
+> **Before running `scraping.ipynb`:** verify the Wayback Machine snapshot URLs in
 > the notebook's `SNAPSHOTS` list actually resolve to the intended pages for each
 > period. Site structure changes mean a single hardcoded URL pattern won't necessarily
 > work across all three years; check each snapshot manually first.
