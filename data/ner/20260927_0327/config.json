@@ -1,0 +1,23 @@
+{
+  "PROJECT_ROOT": "C:\\Users\\micha\\everlane_deepdive",
+  "SENT_DIR": "C:\\Users\\micha\\everlane_deepdive\\data\\sentences",
+  "INPUT_FILES": {
+    "everlane_web": "C:\\Users\\micha\\everlane_deepdive\\data\\sentences\\everlane_web_sentences.csv",
+    "gdelt_articles": "C:\\Users\\micha\\everlane_deepdive\\data\\sentences\\gdelt_articles_sentences.csv",
+    "reddit_posts": "C:\\Users\\micha\\everlane_deepdive\\data\\sentences\\reddit_posts_sentences.csv",
+    "reddit_comments": "C:\\Users\\micha\\everlane_deepdive\\data\\sentences\\reddit_comments_sentences.csv"
+  },
+  "RUN_ID": "20260927_0327",
+  "OUT_DIR": "C:\\Users\\micha\\everlane_deepdive\\data\\ner\\20260927_0327",
+  "NER_MODEL": [
+    "dslim/bert-base-NER",
+    "d1a3e8f13f8c3566299d95fcfc9a8d2382a9affc"
+  ],
+  "AGGREGATION": "first",
+  "BATCH_SIZE": 16,
+  "MAX_LENGTH": 256,
+  "CONFIDENCE_THRESHOLD": 0.8,
+  "DEV_SAMPLE_N": null,
+  "SEED": 42,
+  "DEVICE": -1
+}

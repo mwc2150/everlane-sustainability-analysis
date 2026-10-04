@@ -1,0 +1,77 @@
+name,type,case_sensitive
+Everlane,ORG,False
+Shein,ORG,False
+L Catterton,ORG,False
+LVMH,ORG,False
+Allbirds,ORG,False
+Uniqlo,ORG,False
+Reformation,ORG,True
+Aritzia,ORG,False
+H&M,ORG,False
+Quince,ORG,True
+Madewell,ORG,False
+Amazon,ORG,True
+TikTok,ORG,False
+Instagram,ORG,False
+Nordstrom Rack,ORG,False
+Nordstrom,ORG,False
+Birkenstock,ORG,False
+Gap,ORG,True
+GAP,ORG,True
+Target,ORG,True
+Zara,ORG,False
+Rothy's,ORG,False
+Rothys,ORG,False
+Old Navy,ORG,False
+Poshmark,ORG,False
+Temu,ORG,False
+Banana Republic,ORG,False
+J.Crew,ORG,False
+J. Crew,ORG,False
+J Crew,ORG,False
+Levi's,ORG,False
+Patagonia,ORG,False
+Lululemon,ORG,False
+American Eagle,ORG,False
+Nike,ORG,False
+Etsy,ORG,False
+Athleta,ORG,False
+Eileen Fisher,ORG,False
+Walmart,ORG,False
+Anthropologie,ORG,False
+Theory,ORG,True
+ASOS,ORG,False
+Snapchat,ORG,False
+Topshop,ORG,False
+Boden,ORG,True
+Abercrombie & Fitch,ORG,False
+Abercrombie,ORG,False
+Herschel,ORG,False
+Facebook,ORG,False
+Twitter,ORG,False
+Google,ORG,True
+Apple,ORG,True
+Pinterest,ORG,False
+Calvin Klein,ORG,False
+Macy's,ORG,False
+Gucci,ORG,False
+Cuyana,ORG,False
+Primark,ORG,False
+Sezane,ORG,False
+Mango,ORG,True
+Naadam,ORG,False
+Club Monaco,ORG,False
+Free People,ORG,True
+Ralph Lauren,ORG,False
+Stuart Weitzman,ORG,False
+American Apparel,ORG,True
+Ann Taylor,ORG,False
+LL Bean,ORG,False
+L.L.Bean,ORG,False
+Loft,ORG,True
+COS,ORG,True
+Forever 21,ORG,False
+Saitex,ORG,False
+Radical Transparency,MISC,False
+Clean Luxury,MISC,False
+Black Friday,MISC,False

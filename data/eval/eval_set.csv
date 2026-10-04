@@ -1,0 +1,153 @@
+uid,source,year,split,text,gold_entities,notes
+gdelt_articles:https://www.dailynews.com/2026/05/22/shein-everlane-takeover/:35,gdelt_articles,2026,test,"Seeing our company in the media, and in that light, was painful.”",,no entities
+reddit_posts:ighcl7:1,reddit_posts,2020,dev,TL;DR: Have you ever wanted to stop purchasing from a brand for ethical or political reasons?,,no entities
+reddit_comments:2497:1,reddit_comments,2018,test,Looks like there's a Zadig & Voltaire Sample Sale going on right now.,Zadig & Voltaire|ORG,
+reddit_comments:1547:10,reddit_comments,2020,test,"Since vintage/resell prices have gone up overall, I think about it more as a special occasion thing or like buying a higher end piece.",,no entities
+reddit_posts:is9o28:5,reddit_posts,2020,dev,To make it the work best for you I would love to understand what you currently like or dislike.,,no entities
+reddit_posts:foukw8:94,reddit_posts,2020,test,There are tons of inspo albums and discussions about athleisure on FFA.,FFA|ORG,
+everlane_web:https://www.everlane.com/pages/cleaner-fashion:23,everlane_web,2026,dev,Styles marked with this icon are sourced from a tannery rated Gold or Silver by the Leather Working Group (LWG)—the highest ratings a tannery can receive for demonstrating best practices in environmental compliance and performance capabilities.,Leather Working Group|ORG; LWG|ORG,
+everlane_web:https://www.everlane.com/pages/factories/technical-outerwear:6,everlane_web,2026,test,We ended up choosing them because of their top-notch production methods and super-transparent business ethos.,,no entities
+everlane_web:https://www.everlane.com/pages/factories/espadrille:15,everlane_web,2026,test,Espadrilles,,no entities
+everlane_web:https://www.everlane.com/pages/preferred-materials:10,everlane_web,2026,dev,"Improved social sustainability attributes, for people or animals.",,no entities
+reddit_posts:foukw8:71,reddit_posts,2020,test,Wear elevated t-shirts and sweaters!,,no entities
+reddit_posts:1s3crge:14,reddit_posts,2026,test,They were terrible and falsely hyped.,,no entities
+reddit_comments:4069:2,reddit_comments,2014,test,"If any problems arise with 'em, they will fix it for free.",,no entities
+everlane_web:https://www.everlane.com/pages/factories/brazil-shoes:4,everlane_web,2026,test,"At the factory, decades of family experience in craftsmanship is passed on to employees, who create shoes with traditional techniques and specialized machinery.",,no entities
+gdelt_articles:https://www.retaildetail.eu/news/fashion/is-shein-trying-to-improve-its-image-by-acquiring-everlane/:7,gdelt_articles,2026,dev,"Under the motto “Radical Transparency,” the brand gave customers insight into the origin of the raw materials it uses, as well as the design and production processes and logistics.",Radical Transparency|MISC,
+everlane_web:https://www.everlane.com/pages/about:1,everlane_web,2026,test,we can all make,,no entities
+gdelt_articles:https://news.yahoo.com/everlane-fall-capsule-collection-pays-221322924.html:19,gdelt_articles,unknown,test,Cue the romantic vibes.,,no entities
+everlane_web:https://www.everlane.com/pages/factories:12,everlane_web,2026,dev,Thai Binh,Thai Binh|LOC,
+reddit_posts:6ustj9:25,reddit_posts,2017,dev,"I was a little hesitant to consider them, well, because 9 out of 10 backpacks I see here (San Francisco) are Timbuk2s.",San Francisco|LOC; Timbuk2s|ORG,
+reddit_posts:l6ow21:2,reddit_posts,2021,test,I know about Everlane and KOTN but some of their styles are not what I am looking for.,Everlane|ORG; KOTN|ORG,
+reddit_comments:2064:5,reddit_comments,2019,dev,Not cute!,,no entities
+everlane_web:https://www.everlane.com/pages/factories/rain-boot:26,everlane_web,2026,test,"As an added bonus, they use biomass pellets where possible to replace other fuel sources to heat their steam boilers.",,no entities
+gdelt_articles:https://wwd.com/sustainability/environment/california-responsible-textile-recovery-act-sb-707-reformation-everlane-christy-dawn-1236512804/:47,gdelt_articles,2024,dev,"According to Baskauskas, “there’s a lot of hoops to jump through already” for California brands, which have always been on the leading edge of ecological innovation.",Baskauskas|PER; California|LOC,
+gdelt_articles:https://www.tasteradio.com/episodes/2024/how-everlanes-founder-is-fashioning-success-in-cpg/:270,gdelt_articles,unknown,dev,"how to interact with customers to keep them happy and, you know, to keep that relationship going, even if something goes wrong.",,no entities
+gdelt_articles:https://www.yahoo.com/news/how-to-get-malia-obama-1484709519843382.html:15,gdelt_articles,unknown,test,"We added a black skirt to the look, plus matching CK boy shorts.",CK|ORG,
+reddit_posts:pnwd1c:2,reddit_posts,2021,test,"I have been looking for the perfect fitted, comfortable, henley style tops, long sleeves and tanks, that are made of cotton and work for layering or loungewear and comes in brown/beige or some other thrilling neutral color.",,no entities
+everlane_web:https://www.everlane.com/pages/factories/technical-outerwear:10,everlane_web,2026,dev,We ended up choosing two distinct fill materials—PrimaLoft® sheeting and insulation—and used water-wicking poly-nylon on the outside.,PrimaLoft|ORG,
+reddit_comments:3079:0,reddit_comments,2017,dev,"Given that I ruined my shoulders by wearing a one-shoulder bag with my laptop in it for years, I am all for backpacks.",,no entities
+reddit_comments:1464:0,reddit_comments,2020,dev,Wow...they are paying the employees they let go 100% salary for 4 months during a pandemic that has forced many small businesses to shutter?,,no entities
+gdelt_articles:https://www.tasteradio.com/episodes/2024/how-everlanes-founder-is-fashioning-success-in-cpg/:84,gdelt_articles,unknown,dev,"And when building any brand or product or business, I think leaning into what your skill set is, is really critical.",,no entities
+reddit_comments:3204:12,reddit_comments,2016,test,[Buckle](,,no entities
+everlane_web:https://www.everlane.com/pages/factories/rain-boot:2,everlane_web,2026,test,What It Takes,,no entities
+everlane_web:https://www.everlane.com/pages/preferred-materials:87,everlane_web,2026,test,"We are committed to animal welfare, traceability in sourcing, and responsible land management practices, aligned with our 2030 carbon-reduction strategy.",,no entities
+gdelt_articles:https://www.businessinsider.com/everlane-new-sneaker-brand-tread-by-everlane-2019-4:9,gdelt_articles,unknown,test,"People realize that we don't need to wear uncomfortable clothes to look good.""",,no entities
+gdelt_articles:https://www.etonline.com/shop-everlanes-sustainable-loungewear-collection-for-earth-day-160774:11,gdelt_articles,unknown,test,"In other words, wearing anything but sweats feels like a foreign concept, but until that idea becomes a regular thought once again, Everlane's Track collection will help you get there.",Everlane's|ORG,
+everlane_web:https://www.everlane.com/pages/factories/rain-boot:13,everlane_web,2026,test,What’s a factory to do?,,no entities
+reddit_posts:aswlwq:143,reddit_posts,2019,test,[the real real](,,no entities
+reddit_posts:2jhazx:5,reddit_posts,2014,test,Link to my pinterest board of ideas:,pinterest|ORG,
+gdelt_articles:https://news.yahoo.com/wear-everlane-swim-shorts-day-090000277.html:16,gdelt_articles,unknown,test,"That means there’s less time waiting around, and more time moving on to the next adventure.",,no entities
+everlane_web:https://www.everlane.com/pages/factories/heel:14,everlane_web,2026,dev,"Originally from Naples, Pasquale and Aimone began as stitchers and became passionate about the shoe manufacturing process, eventually moving to Pisa to open their own business.",Naples|LOC; Pasquale|PER; Aimone|PER; Pisa|LOC,
+reddit_posts:c9auz2:9,reddit_posts,2019,dev,- increase in maximalist and over the top silhouettes and styles.,,no entities
+reddit_posts:4eb4e5:54,reddit_posts,2016,test,I find that more natural fabrics breathe better.,,no entities
+everlane_web:https://www.everlane.com/pages/preferred-materials:104,everlane_web,2026,dev,Clean Silk,,no entities
+everlane_web:https://www.everlane.com/pages/dei:5,everlane_web,2026,test,Our Strategic Pillars,,no entities
+gdelt_articles:https://www.prnewswire.com:443/news-releases/ethical-fashion-industry-assessment-with-covid-19-revised-forecasts-2020-2030---key-players-are-christian-dior-hm-ab-nike-adidas-ag-pact-tentree-everlane-and-eileen-fisher-301083682.html:78,gdelt_articles,unknown,test,Ethical Fashion Market Regional And Country Analysis,,no entities
+reddit_posts:cjag13:23,reddit_posts,2019,dev,A person who isn't can't do that.,,no entities
+reddit_comments:3126:1,reddit_comments,2017,test,"This is the norm for for-profit companies, period (um... no pun intended), it just tends to garner a lot more attention when the company brands itself as being aligned with a particular social cause.",,no entities
+everlane_web:https://www.everlane.com/pages/sustainability-pillars:40,everlane_web,2026,dev,"The science is clear: We can still save the planet, but we have to work fast—and work together.",,no entities
+everlane_web:https://www.everlane.com/pages/sustainability:14,everlane_web,2026,test,Learn More,,no entities
+reddit_posts:1oyhdm:13,reddit_posts,2013,test,"Chest 54"" bra size 36JJ/K (ABTF approved)",ABTF|ORG,
+reddit_comments:4028:2,reddit_comments,2014,test,"Very broad shouldered, 38DD, apple shaped.",,no entities
+reddit_comments:4398:15,reddit_comments,2020,test,Also know that CEO's and VP's really have no incentive to uphold their practices because they know there will still be a following no matter the circumstance.,,no entities
+reddit_posts:1k5z528:0,reddit_posts,2025,dev,Dressier Sustainable Fashion?,,no entities
+gdelt_articles:http://www.hollywoodreporter.com/news/everlane-at-opening-ceremonys-la-938221:12,gdelt_articles,2016,test,"1 “information-powered” retailer in the world — in other words, it wants to compete with fast-fashion retailers like Zara and H&M by being able to quickly turn customer feedback into real change.",Zara|ORG; H&M|ORG,
+reddit_comments:2725:1,reddit_comments,2018,test,Joie also has nice blouses with gorgeous prints.,Joie|ORG,
+reddit_comments:2478:0,reddit_comments,2018,test,"I like to check if there are any sample sales happening in the city when I visit, which you can easily do via sites like Chicmi.",Chicmi|ORG,
+everlane_web:https://www.everlane.com/pages/social-responsibility:10,everlane_web,2026,dev,"Following the Rana Plaza factory collapse in 2013, we made a commitment to transparently disclose the name and location of our factory partners.",Rana Plaza|ORG,
+everlane_web:https://www.everlane.com/pages/dei:73,everlane_web,2026,test,We conducted an internal DEI survey and hosted DEI Dialogues to get a proper sense of where we stand.,,no entities
+reddit_comments:730:5,reddit_comments,2024,dev,love them!,,no entities
+reddit_comments:2970:1,reddit_comments,2017,test,Not for wide feet!!,,no entities
+everlane_web:https://www.everlane.com/pages/carbon:1,everlane_web,2026,test,Earth’s climate is changing.,Earth|LOC,
+gdelt_articles:https://www.popsugar.com/fashion/Everlane-Work-Clothes-44494276:3,gdelt_articles,2018,test,"It's no secret that here at POPSUGAR, we're seriously obsessed with Everlane.",POPSUGAR|ORG,
+gdelt_articles:https://www.businessinsider.com/cool-startups-new-releases-everlane-mgemi-mejuri-cuyana-2018-9:1,gdelt_articles,unknown,test,Best Spanx coupon and promo codes we've tested in May 2026 Spanx has some of our favorite loungewear and activewear.,Spanx|ORG,
+gdelt_articles:https://www.popsugar.com/beauty/Everlane-Cote-Nail-Polish-43566927:17,gdelt_articles,2017,dev,"So you get what you get, and you don't get upset!",,no entities
+reddit_comments:2139:5,reddit_comments,2019,test,"They have Tall size (Long gets you an extra 2"" on inseam, Tall gets you 4"" !",,no entities
+everlane_web:https://www.everlane.com/pages/carbon:57,everlane_web,2026,test,Encourage and incentivize suppliers to convert to renewable electricity.,,no entities
+everlane_web:https://www.everlane.com/pages/factories/aqua-swim:27,everlane_web,2026,test,Their goal is to reduce their water consumption by 75% before 2025.,,no entities
+reddit_comments:1314:0,reddit_comments,2020,test,"So in the last two years, I have had a baby, lost significant weight, gained weight and now pregnant again (22 weeks).",,no entities
+gdelt_articles:http://blog.hubspot.com/marketing/everlane-branding-growth-strategy-podcast:180,gdelt_articles,unknown,test,Take a moment to jot down a list of what sets your business apart from others.,,no entities
+reddit_posts:foukw8:112,reddit_posts,2020,test,Do you think every single thing I wrote here is wrong and ridiculous?,,no entities
+reddit_posts:r2xe9l:1,reddit_posts,2021,dev,I live in Australia and have ordered from Everlane a few times.,Australia|LOC; Everlane|ORG,
+gdelt_articles:https://hollywoodlife.com/2020/01/15/selena-gomez-justin-bieber-merch-sweatshirts-clothing-lines-outfits-pics/:4,gdelt_articles,2020,dev,A red lip and a dark smokey cat-eye completed her casual but sexy ensemble.,,no entities
+reddit_comments:2775:1,reddit_comments,2017,test,Their old cashmeres were good.,,no entities
+reddit_posts:1huacb:30,reddit_posts,2013,dev,"Thank you so much for the recommendations- I was already planning an Everlane order, so I'll cut a little somewhere else to make up the gap.",Everlane|ORG,
+gdelt_articles:https://wwd.com/sourcing-journal/sustainability/everlane-shein-sustainable-fashion-mergers-acquisitions-1238971899/:9,gdelt_articles,2026,test,"As with Allbirds, the reveal sparked disbelief.",Allbirds|ORG,
+everlane_web:https://www.everlane.com/pages/impact-report:11,everlane_web,2026,dev,"Across our key climate metrics, we're ahead of schedule, and in some areas we've surpassed our own targets.",,no entities
+reddit_posts:qmtr3a:1,reddit_posts,2021,test,"Hey all,",,no entities
+reddit_comments:992:0,reddit_comments,2022,dev,Alex Mill!,Alex Mill|ORG,
+gdelt_articles:https://www.harpersbazaar.com/celebrity/latest/a28552772/meghan-markle-everlane-jumpsuit-vogue/:2,gdelt_articles,2025,test,"Now, the two are happily married with two kids.",,no entities
+reddit_comments:1833:8,reddit_comments,2019,dev,"Personally, I like a silk thermal + a thin merino piece + a heavier cashmere pullover + a packable down vest or jacket layered under a full length wool coat for really frigid weather.",,no entities
+reddit_comments:4283:0,reddit_comments,2013,test,"Not sure where in Canada you're from, but I would suggest checking locally at Sport Chek or Atmosphere, or at a ski/board shop for a good quality backpack.",Canada|LOC; Sport Chek|ORG; Atmosphere|ORG,
+gdelt_articles:https://www.harpersbazaar.com/fashion/trends/a23895527/everlane-recycled-plastic-bottles-collection/:12,gdelt_articles,2018,dev,"In a press release, Everlane detailed its three-year plan to eliminating all new plastic:",Everlane|ORG,
+everlane_web:https://www.everlane.com/pages/preferred-materials:62,everlane_web,2026,test,"Sourced exclusively from Belgium, France, and the Netherlands, European FlaxTM linen uses no GMOs, little-to-no irrigation, and utilizes all parts of the plant for a zero-waste operation.",Belgium|LOC; France|LOC; Netherlands|LOC,
+reddit_comments:681:0,reddit_comments,2024,test,Vintage chicos and Anne Klein 😗🤙,Anne Klein|ORG,
+reddit_comments:2928:6,reddit_comments,2017,dev,And I tell you this bag holds all of those plus my lunch.,,no entities
+gdelt_articles:https://ca.hellomagazine.com/royalty/02019093053193/meghan-markle-surprise-visit-johannesburg-creative-hub-aritiza-everlane/:20,gdelt_articles,2019,test,The duo were very keen to reconnect with the Campaign for Female Education and learn about how the organization is helping girls and women to attend secondary school in sub-Saharan Africa.,Campaign for Female Education|ORG; sub-Saharan Africa|LOC,
+everlane_web:https://www.everlane.com/pages/dei:69,everlane_web,2026,test,"Racial and Ethnic Minorities as defined by EEO1 categories including American Indian or Alaskan Native, Asian, Black or African American, Hispanic/Latino, Native Hawaiian or other Pacific Islander.",EEO1|ORG,
+reddit_comments:1336:6,reddit_comments,2020,dev,"It is comfy, it seems to fit no matter how much weight I gain or lose, and literally the only issue I have had was that the hem fell out.",,no entities
+reddit_comments:3779:10,reddit_comments,2015,dev,"Additionally, it's easy to forget that just because your fit wasn't upvoted in WAYWT doesn't mean that it's a bad fit.",,no entities
+everlane_web:https://www.everlane.com/pages/factories:23,everlane_web,2026,test,MAS Holdings,MAS Holdings|ORG,
+reddit_posts:4g6s7y:43,reddit_posts,2016,test,I do like that Everlane [seems to be more transparent than most companies about their manufacturing].,Everlane|ORG,
+everlane_web:https://www.everlane.com/pages/supply-chain:41,everlane_web,2026,test,- Members of the Everlane supply chain team have participated in multiple audits and worker interviews.,Everlane|ORG,
+gdelt_articles:https://www.thesun.co.uk/fabulous/9986134/meghan-markle-outfit-dress-wedge-cape-town/:21,gdelt_articles,2019,dev,"Castaner canvas wedge espadrilles, £80, Net-A-Porter – buy now",Castaner|ORG,
+gdelt_articles:https://www.elle.com/fashion/shopping/a18658892/everlane-kick-crop-denim/:17,gdelt_articles,2018,test,"Did we mention they're only $78, too?",,no entities
+reddit_posts:5na6uz:19,reddit_posts,2017,test,I spent a lot of money.,,no entities
+reddit_posts:pcc6mj:11,reddit_posts,2021,dev,Or is medium better for my build?,,no entities
+reddit_comments:1660:1,reddit_comments,2019,test,I wear them around town and gardening and they've held up really well and get lots of compliments.,,no entities
+reddit_posts:35pqzm:4,reddit_posts,2015,test,Anyways!,,no entities
+reddit_posts:1o5vvd:8,reddit_posts,2013,test,"I've also looked at Everlane's (it's often recommended here) and while I do like the simple look, the Unihood one looks better IMO.",Everlane|ORG,
+reddit_comments:4093:27,reddit_comments,2014,test,"I'm not even going to try to convince Forever 21 that it's their fault my $9 sweater is unraveling two weeks in, but if by some chance the same thing happened to a sweater from a lot of ""higher end"" companies, they'd replace it no questions asked.",Forever 21|ORG,
+everlane_web:https://www.everlane.com/pages/social-responsibility:46,everlane_web,2026,dev,Accepting equivalency reports is one way we are partnering with our suppliers to ensure high standards while reducing pressure and redundancy from audit fatigue.,,no entities
+everlane_web:https://www.everlane.com/pages/factories:22,everlane_web,2026,dev,Kandy,Kandy|LOC,fixed after model run: factory location per 3a rule
+reddit_posts:aswlwq:57,reddit_posts,2019,dev,"All of Olori’s handbags are made by artisans and women-owned businesses in Nigeria, AND each bag pays one month of tuition fees for an underprivileged girl in Africa.",Olori|ORG; Nigeria|LOC; Africa|LOC,
+reddit_posts:rftpwh:15,reddit_posts,2021,test,"Synchronistically, many brands, like LA-based labels[ Reformation ]( and[ Everlane ]( are adopting the slow fashion methodology and some online retailers are beginning to create new spaces for the secondhand clothing market.",LA|LOC; Reformation|ORG; Everlane|ORG,
+everlane_web:https://www.everlane.com/pages/about:39,everlane_web,2026,test,We believe our customers have a right to know how much their clothes cost to make.,,no entities
+everlane_web:https://www.everlane.com/pages/social-responsibility:3,everlane_web,2026,dev,"We search the globe to find suppliers that embrace a holistic approach to social and environmental responsibility, and we make sure they are living up to our standards.",,no entities
+gdelt_articles:https://www.glossy.co/podcasts/everlanes-michael-preysman-buying-carbon-offsets-is-an-excuse-to-continue-to-reap-carbon/:30,gdelt_articles,2021,test,"You see a lot of companies launch with one product or one idea, and then there’s not usually an evolution beyond that... The consumer wants innovation, wants newness — and that product is key to success.",,no entities
+gdelt_articles:https://thefrisky.com/7-celebrities-copy-meghan-markles-look/:27,gdelt_articles,2019,test,"Some were speculating that she chose this dress in particular as some kind of ode to Markle, others said it could be in hope for a wedding invite, but we still think that she just couldn’t resist such a lovely dress.",Markle|PER,
+reddit_posts:cldbzs:50,reddit_posts,2019,test,"Since it is worn as an under garment, it's not easy to take it off when you are out and about.",,no entities
+everlane_web:https://www.everlane.com/pages/preferred-materials:59,everlane_web,2026,dev,We love linen because it is an old-world fiber with a low environmental impact.,,no entities
+reddit_posts:2bwmkq:3,reddit_posts,2014,test,"TO THE POINT: I'm looking for chic, minimal t-shirts that will last and that won't rip if I look at them the wrong way (marled/slub grey, black, and white).",,no entities
+reddit_comments:1294:0,reddit_comments,2020,test,I agree 100%.,,no entities
+everlane_web:https://www.everlane.com/pages/factories/technical-outerwear:5,everlane_web,2026,test,"When we were introduced to this factory in Bac Giang by a member of our production team, we were intrigued by their streamlined approach to creating product: all manufacturing happens under one roof, rather than in different factories.",Bac Giang|LOC,
+gdelt_articles:https://news.yahoo.com/everlane-cale-meghan-markle-editor-flats-190842292.html:26,gdelt_articles,unknown,test,The Cashmere Crew.,,no entities
+gdelt_articles:https://kenh14.vn/100-trieu-usd-va-hien-thuc-chua-chat-cua-ca-nganh-cong-nghiep-shein-mua-lai-everlane-mua-luon-giac-mo-thoi-trang-dao-duc-cua-mot-the-he-215260525222658942.chn:68,gdelt_articles,2026,dev,"Khi một biểu tượng như vậy mua lại Everlane, câu hỏi bật ra không phải là Everlane có còn độc lập hay không, mà là: Liệu “bền vững” rốt cuộc có còn là một nguyên tắc kinh doanh, hay chỉ là một tài sản thương hiệu có thể được mua lại?",Everlane|ORG,
+reddit_comments:3330:3,reddit_comments,2016,test,"Kit and Ace also has a lot of nice minimalist stuff, although it's a bit on the pricier side.",Kit and Ace|ORG,
+gdelt_articles:https://www.tasteradio.com/episodes/2024/how-everlanes-founder-is-fashioning-success-in-cpg/:122,gdelt_articles,unknown,dev,"How do you build a relationship such that the customer stays with you for a long period of time, if not the lifetime of your brand?",,no entities
+reddit_posts:r2xe9l:4,reddit_posts,2021,dev,"I enquired about it after 10 days or so of no tracking updates, apparently the order was lost, the re-sent it via express shipping, that was two weeks ago and it still hasn’t left the US.",US|LOC,fixed after model run: missed country
+gdelt_articles:http://www.7x7.com/suitsupply-finally-opens-coppola-collabs-with-everlane-1907502866.html:2,gdelt_articles,2016,test,"Boy, are we glad Everlane asked director Gia Coppola (Palo Alto) to design her first clothing line.",Everlane|ORG; Gia Coppola|PER; Palo Alto|ORG,
+reddit_posts:aiov3g:55,reddit_posts,2019,test,They aim to build garments you'll want to wear for years to come with quality that ensures you can.,,no entities
+gdelt_articles:https://www.akm.ru/news/kitayskiy_onlayn_riteyler_shein_priobretaet_amerikanskuyu_everlane/:1,gdelt_articles,2026,dev,Китайский онлайн-ритейлер Shein заключил соглашение с американской инвесткомпанией L Catterton по приобретению ритейлера одежды Everlane.,Shein|ORG; L Catterton|ORG; Everlane|ORG,
+reddit_posts:rair0i:6,reddit_posts,2021,test,Thanks for any suggestions!,,no entities
+reddit_comments:333:0,reddit_comments,2026,dev,reading all the comments knowing i never bought everlane or shein,everlane|ORG; shein|ORG,
+gdelt_articles:https://www.cosmopolitan.com/it/moda/tendenze/a29382340/everlane-brand-moda-eco-sostenibile/:30,gdelt_articles,2019,dev,"""Sappiamo che è difficile cambiare la mentalità delle persone e che è più facile desiderare di avere un guardaroba sempre pieno di capi nuovi.",,no entities
+reddit_comments:3028:1,reddit_comments,2017,test,"Honestly, along with most other things, as long as it's in relatively good shape, and clean, and you are clean and ready to work, no one should care.",,no entities
+gdelt_articles:https://www.marieclaire.com/fashion/layering-essentials-everlane-banana-republic-madewell/:29,gdelt_articles,2025,test,These pieces bridge the gap for when you still need something warm but don't want all of the extra bulk of a coat.,,no entities
+gdelt_articles:https://www.travelandleisure.com/everlane-wrinkle-resistant-fall-collection-8694700:46,gdelt_articles,unknown,test,The elastic waistband at the back meets roomy legs for the superior comfort that Quince is known for.,Quince|ORG,
+reddit_comments:243:0,reddit_comments,2019,test,someone else already said this but i really really think you should check out some estate sales in your area!,,no entities
+gdelt_articles:https://nymag.com/strategist/article/everlane-a-history.html:44,gdelt_articles,2026,dev,At least they were cheaper than Jesse Kamm’s.,Jesse Kamm|ORG,
+reddit_comments:2983:1,reddit_comments,2017,test,I'll let you know how they hold up.,,no entities
+everlane_web:https://www.everlane.com/pages/preferred-materials:84,everlane_web,2026,test,"We continue to partner with innovative elastane manufacturers (like ROICATM V550) and introduced a partly recycled elastane in some of our styles, but we still have a long way to go to achieve parity in performance and availability.",,no entities
+gdelt_articles:https://www.newyorker.com/culture/on-and-off-the-avenue/how-everlane-hacked-your-wardrobe:5,gdelt_articles,2017,test,"And then telling it to them,” he said.",,no entities
+reddit_posts:9b5e41:11,reddit_posts,2018,test,"I'd result in me needing to replace my t-shirts less often and over the long term, I'd do more good than harm is what I am thinking.",,no entities
+reddit_posts:aswlwq:0,reddit_posts,2019,test,For those who want to fall in love or back in love with the fashion industry,,no entities
+everlane_web:https://www.everlane.com/pages/factories/day-glove:30,everlane_web,2026,test,Denim,,no entities
+reddit_posts:48wr6i:32,reddit_posts,2016,dev,(My mother is pretty average in height and weight; no special fit considerations needed.,,no entities
+everlane_web:https://www.everlane.com/pages/sustainability-pillars:31,everlane_web,2026,test,Our Priorities,,no entities
+gdelt_articles:https://wwd.com/fashion-news/fashion-features/everlane-designer-sonia-martin-on-san-francisco-fashion-1203176200/:70,gdelt_articles,2019,test,The moment a product has gone live we can watch.,,no entities
+reddit_posts:p9l87a:3,reddit_posts,2021,dev,"After reading several blogs, watching hours of YouTube videos and scouring numerous Pinterest boards, I realized that a simpler, classic wardrobe was more my style.",Pinterest|ORG,
+reddit_comments:1336:36,reddit_comments,2020,test,"So I just feel like it is so risky to buy something supposedly nicer, because I have been so burned on these items!",,no entities
+reddit_comments:3640:1,reddit_comments,2015,test,They're super comfortable and I've washed my black one a million times and the colour hasn't changed.,,no entities
+reddit_posts:18ov2zz:6,reddit_posts,2023,test,"I've actually been pretty happy with Everlane, but looking for more options.",Everlane|ORG,
+reddit_comments:2765:1,reddit_comments,2017,dev,"When the boxy-shapeless aesthetic finally dies, Everlane won't have anything to sell.",Everlane|ORG,
+gdelt_articles:https://newsday.co.tt/2021/05/23/annalie-prime-sets-her-sight-on-love-light-and-legacy/:18,gdelt_articles,2021,test,"“I was doing music, putting out singles, two years before, and experimenting.",,no entities
+reddit_posts:1nlmwkt:76,reddit_posts,2025,test,"The seller thought there was something wrong with them because they were resoled, but they are lovely and they were resoled in Italy.",Italy|LOC,
+reddit_posts:48wr6i:19,reddit_posts,2016,test,"This is not going to be easy...""",,no entities
+everlane_web:https://www.everlane.com/pages/social-responsibility:21,everlane_web,2026,test,This allows us to determine if a prospective factory meets our social and environmental responsibility standards so we can move forward with a partnership.,,no entities
+gdelt_articles:https://www.prnewswire.com/news-releases/premium-denim-jeans-market-size-to-grow-by-usd-9-75-billion-from-2021-to-2026-a-descriptive-analysis-of-customer-landscape-vendor-assessment-and-market-dynamics---technavio-301720191.html:149,gdelt_articles,unknown,test,7.1 Geographic segmentation,,no entities
+reddit_comments:4299:0,reddit_comments,2026,test,Secondhand stores are the most sustainable option always,,no entities
+everlane_web:https://www.everlane.com/pages/dei:106,everlane_web,2026,test,Currently we are working with our People Leaders to map career pathing opportunities for our teams.,People Leaders|ORG,
+reddit_comments:2212:10,reddit_comments,2019,dev,So I'll wear designer dresses with shoes from zara I got on sale for $7.,zara|ORG,
+reddit_comments:1451:1,reddit_comments,2020,dev,I was laid off at the same time as the customer service people.,,no entities

@@ -1,0 +1,30 @@
+uid,entity,type,score,start,end
+everlane_web:https://www.everlane.com/pages/cleaner-fashion:23,Leather Working Group,ORG,0.9991710782051086,84,105
+everlane_web:https://www.everlane.com/pages/cleaner-fashion:23,LWG,ORG,0.9989774227142334,107,110
+gdelt_articles:https://www.retaildetail.eu/news/fashion/is-shein-trying-to-improve-its-image-by-acquiring-everlane/:7,Transparency,MISC,0.3950919806957245,25,37
+everlane_web:https://www.everlane.com/pages/factories:12,Thai,MISC,0.5574560165405273,0,4
+reddit_posts:6ustj9:25,San Francisco,LOC,0.9992846250534058,90,103
+reddit_posts:6ustj9:25,Timbuk2s,MISC,0.9707741737365723,109,117
+gdelt_articles:https://wwd.com/sustainability/environment/california-responsible-textile-recovery-act-sb-707-reformation-everlane-christy-dawn-1236512804/:47,Baskauskas,PER,0.9966526627540588,13,23
+gdelt_articles:https://wwd.com/sustainability/environment/california-responsible-textile-recovery-act-sb-707-reformation-everlane-christy-dawn-1236512804/:47,California,LOC,0.9995763897895813,78,88
+everlane_web:https://www.everlane.com/pages/factories/technical-outerwear:10,PrimaLoft®,MISC,0.5611335635185242,49,59
+everlane_web:https://www.everlane.com/pages/factories/heel:14,Naples,LOC,0.9991582632064819,16,22
+everlane_web:https://www.everlane.com/pages/factories/heel:14,Pasquale,PER,0.9732239842414856,24,32
+everlane_web:https://www.everlane.com/pages/factories/heel:14,Aimone,ORG,0.48907461762428284,37,43
+everlane_web:https://www.everlane.com/pages/factories/heel:14,Pisa,LOC,0.9972589015960693,144,148
+reddit_posts:1k5z528:0,Dressier Sustainable Fashion,MISC,0.7916461825370789,0,28
+everlane_web:https://www.everlane.com/pages/social-responsibility:10,Rana Plaza,ORG,0.7692725658416748,14,24
+reddit_posts:r2xe9l:1,Australia,LOC,0.9998001456260681,10,19
+reddit_posts:r2xe9l:1,Everlane,ORG,0.9978994131088257,42,50
+reddit_posts:1huacb:30,Everlane,ORG,0.49689310789108276,69,77
+reddit_comments:992:0,Alex Mill,PER,0.9993940591812134,0,9
+gdelt_articles:https://www.harpersbazaar.com/fashion/trends/a23895527/everlane-recycled-plastic-bottles-collection/:12,Everlane,ORG,0.9995148181915283,20,28
+everlane_web:https://www.everlane.com/pages/factories:22,Kandy,LOC,0.9918485879898071,0,5
+reddit_posts:aswlwq:57,Olori,PER,0.9992882609367371,7,12
+reddit_posts:aswlwq:57,Nigeria,LOC,0.9998006224632263,75,82
+reddit_posts:aswlwq:57,Africa,LOC,0.9997403025627136,159,165
+reddit_posts:r2xe9l:4,US,LOC,0.9989510774612427,184,186
+gdelt_articles:https://nymag.com/strategist/article/everlane-a-history.html:44,Jesse Kamm,PER,0.9993013143539429,32,42
+reddit_posts:p9l87a:3,YouTube,MISC,0.9055788516998291,47,54
+reddit_posts:p9l87a:3,Pinterest,MISC,0.8708499670028687,84,93
+reddit_comments:2765:1,Everlane,ORG,0.9963926672935486,48,56

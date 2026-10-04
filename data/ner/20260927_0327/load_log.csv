@@ -1,0 +1,5 @@
+source,loaded,after_null_text,after_dedup,after_junk_filter,after_language_filter
+everlane_web,1666,1666,1666,1607,1607
+gdelt_articles,25695,25695,25695,25488,24200
+reddit_comments,20787,20787,20787,19948,19948
+reddit_posts,6162,6162,6162,5661,5661
